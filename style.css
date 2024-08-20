@@ -3,6 +3,7 @@ html {
   width: 100%;
   
   text-align: center;
+  overflow-x: hidden;
 }
 
 body {
@@ -50,11 +51,17 @@ table{
   /*position: relative;*/
   font-size:15px;
   text-align: left;
-  top:100px;
+  left: 30px;
+  top: 30px;
 }
 
 #r{
   position: absolute;
   left:0px;
   top:0px;
+}
+
+#terms{
+  color:black;
+  text-decoration: none;
 }
