@@ -57,11 +57,10 @@ table{
 
 #r{
   position: absolute;
-  left:0px;
+  left:0px;;
   top:0px;
 }
 
 #terms{
-  color:black;
-  text-decoration: none;
+  color:blue;
 }
